@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\bin\Debug\Hesoyam.exe.config
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\bin\Debug\Hesoyam.exe
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\bin\Debug\Hesoyam.pdb
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\obj\Debug\Hesoyam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\obj\Debug\Hesoyam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\obj\Debug\Hesoyam.exe
+C:\Users\Admin\source\repos\Hesoyam\Hesoyam\obj\Debug\Hesoyam.pdb
